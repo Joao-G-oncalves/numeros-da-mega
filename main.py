@@ -18,9 +18,9 @@ def criar_mega():
 
 def quantidade_jogos(num):
     for _ in range(num):
-        print(f'{'---'*8}\n{criar_mega()}')
+        print(f'{"---"*8}\n{criar_mega()}')
 
 
 quantidade_jogos(x)
 
-input(f'{'---'*8}\nPressione qualquer tecla para sair!')
+input(f'{"---"*8}\nPressione qualquer tecla para sair!')
